@@ -12,7 +12,7 @@ The platform includes an **admin panel**, **real-time score updates**, and suppo
 - **Backend:** Go (Gin)  
 - **Database:** PostgreSQL *(planned)*  
 - **Authentication:** Firebase *(planned)*  
-- **Hosting:** AWS *(planned)*
+
 
 ---
 
